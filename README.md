@@ -51,7 +51,25 @@ Developed a comprehensive securitisation risk assessment dashboard using Microso
 
 ## Screenshots
 
-(Add dashboard screenshots here.)
+## Dashboard Screenshots
+
+### Executive Overview
+![Executive Overview](images/executive_overview.png)
+
+### Delinquency Analysis
+![Delinquency Analysis](images/delinquency_analysis.png)
+
+### IFRS9 Dashboard
+![IFRS9 Dashboard](images/ifrs9_dashboard.png)
+
+### Vintage Analysis
+![Vintage Analysis](images/vintage_analysis.png)
+
+### Investor Reporting
+![Investor Reporting](images/investor_reporting.png)
+
+### Risk Arena
+![Risk Arena](images/risk_arena.png)
 
 ## Author
 
