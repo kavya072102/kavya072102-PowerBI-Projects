@@ -74,3 +74,13 @@ Developed a comprehensive securitisation risk assessment dashboard using Microso
 ## Author
 
 Kavya Sri Makkapati
+
+
+
+
+
+
+
+
+
+Added Data Analyst Securitisation Power BI Project
