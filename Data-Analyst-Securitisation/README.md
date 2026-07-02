@@ -31,24 +31,22 @@ The dashboard includes:
 - Static Pool Vintage Data
 
 ## Loan Portfolio Overview
-![Loan Portfolio Overview](images/loan_portfolio_overview.png)
+![Loan Portfolio Overview](images/loan%20portifolio%20overview.png)
 
 ## DPD Analysis
-![DPD Analysis](images/dpd_analysis.png)
+![DPD Analysis](images/DPD%20Analysis.png)
 
 ## Dynamic Loss & Waterfall
-![Dynamic Loss & Waterfall](images/dynamic_loss_waterfall.png)
+![Dynamic Loss & Waterfall](images/Dynamic%20loss%20%26waterfall.png)
 
 ## IFRS 9 & ECL Analysis
-![IFRS 9 & ECL Analysis](images/ifrs9_ecl_analysis.png)
+![IFRS 9 & ECL Analysis](images/IFRS%209%20%26%20ECL%20Analysis.png)
 
 ## Investor Reporting Dashboard
-![Investor Reporting Dashboard](images/investor_reporting_dashboard.png)
+![Investor Reporting Dashboard](images/investor%20reporting%20dashboard.png)
 
 ## Vintage Analysis
-![Vintage Analysis](images/vintage_analysis.png)
-## Key Features
-
+![Vintage Analysis](images/vintage%20analysis.png)
 - Portfolio Risk Monitoring
 - IFRS 9 Expected Credit Loss
 - Delinquency Tracking
