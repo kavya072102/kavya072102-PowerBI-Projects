@@ -12,9 +12,6 @@ The dashboard includes:
 - IFRS 9 Expected Credit Loss Analysis
 - Vintage Analysis
 - Dynamic Loss & Waterfall
-- Stress Testing
-- Securitisation Risk Arena
-
 ---
 
 ## Technologies
