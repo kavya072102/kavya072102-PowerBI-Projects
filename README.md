@@ -50,7 +50,7 @@ The dashboard includes:
 ![Investor Reporting Dashboard](images/investor_reporting_dashboard.png)
 
 ## Vintage Analysis
-![Vintage Analysis](images/vintage analysis.png)
+![Vintage Analysis](images/vintage_analysis.png)
 ## Key Features
 
 - Portfolio Risk Monitoring
